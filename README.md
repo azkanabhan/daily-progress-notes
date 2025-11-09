@@ -4,6 +4,8 @@ Aplikasi Flutter untuk merefleksikan hari-hari yang lebih baik. Aplikasi ini mem
 
 ## Fitur
 
+## Getting Started
+
 ### 1. Daily Reflection Entry
 - **Apa yang membuat hari ini lebih baik dari kemarin?** - Kolom untuk mencatat hal-hal positif
 - **Hal apa yang bisa diperbaiki untuk besok?** - Kolom untuk refleksi dan perbaikan
