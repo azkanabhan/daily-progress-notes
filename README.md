@@ -2,7 +2,6 @@
 
 Aplikasi Flutter untuk merefleksikan hari-hari yang lebih baik. Aplikasi ini membantu Anda mencatat refleksi harian, melacak perasaan, dan melihat statistik perkembangan Anda.
 
-## Fitur
 
 ## Getting Started
 
